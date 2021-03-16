@@ -1,2 +1,2 @@
 # bookish-spork
-module 9
+module 9 portfolio-generator
